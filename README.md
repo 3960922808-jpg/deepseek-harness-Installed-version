@@ -8,8 +8,8 @@
 
 请前往仓库的 [Releases](https://github.com/3960922808-jpg/deepseek-harness-Installed-version/releases) 页面下载：
 
-- `DeepSeek Harness Setup 0.1.0-rc.5.exe`：Windows 安装版，推荐日常使用。
-- `DeepSeek Harness 0.1.0-rc.5.exe`：单文件便携版。由于包含大量插件文件，每次启动需要先解压，启动速度慢于安装版。
+- `DeepSeek.Harness.Setup.0.1.0-rc.5.exe`：Windows 安装版，推荐日常使用。
+- `DeepSeek.Harness.0.1.0-rc.5.exe`：单文件便携版。由于包含大量插件文件，每次启动需要先解压，启动速度慢于安装版。
 - `DeepSeek-Harness-Windows-Source-0.1.0-rc.5.zip`：本次 Windows 桌面改版的完整源码。
 
 ## 功能
